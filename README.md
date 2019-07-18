@@ -3,7 +3,9 @@
 ### Authored by [Tia Rose](https://github.com/TRose2014), [Matt Wilkin](https://github.com/mwilkin), [Jeff Lawrence](https://github.com/JeffLawrence1)
 ----
 ### Description of Project
+
 Game Time Analytics will allow the user to analyze, research and track sports statistics for players and teams. A user should be able to enter an individual players or teams to keep track of their statistics. This includes creating, updating, reading, and destroying for every record.
+
 ---
 ### Links and Resources
 
